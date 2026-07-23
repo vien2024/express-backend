@@ -1,0 +1,10 @@
+# Dependencies (never upload this folder)
+node_modules/
+
+# Environment variables (contains secret keys/passwords)
+.env
+.env.local
+
+# Logs and system files
+*.log
+.DS_Store
